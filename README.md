@@ -11,7 +11,7 @@
  
  ## Team and roles
  * Timon Christiansen/ SE
- * JOsef Grieb/ SE
+ * Josef Grieb/ SE
  * Elias Khattar/ ID
  * Max Ropohl/ ID
  * Robin Stöhr/ PM
